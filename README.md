@@ -123,4 +123,5 @@ Five interactive dashboards translating the SQL and Python outputs into a risk-c
 
 ## Author
 
-Srushti Mahant Pawar
+
+Project by Tanisha Gupta and Srushti Mahant Pawar
